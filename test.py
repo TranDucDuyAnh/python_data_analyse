@@ -2,7 +2,6 @@ import pandas as pd  # Dataframe
 import scipy.stats as stats # Kiểm định t-test và ANOVA
 from statsmodels.stats.proportion import proportions_ztest # Kiểm định z-test
 import os  # File
-import numpy as np
 
 path = "D:/University Stuff/pypy"  # đường tới file
 file = "Temperature.xlsx"  # tên file
